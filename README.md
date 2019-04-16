@@ -3,7 +3,9 @@ deoplete source for dictionary
 
 ## Description
 This source collects "keyword_patterns" keywords from 'dictionary'.
+
 Note: It uses buffer-local 'dictionary' set up.
+
 Note: It also supports directory.
 
 rank: 100
